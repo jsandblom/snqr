@@ -18,3 +18,5 @@ Imports:
     stringr,
     tibble,
     tidyr
+URL: https://github.com/jsandblom/snqr
+BugReports: https://github.com/jsandblom/snqr/issues
